@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>sh_wd_11066.jpg</filename>
+  <source>
+    <annotation>PASCAL VOC2007</annotation>
+    <database/>
+    <image>flickr</image>
+    <flickrid>35435</flickrid>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <channel>3</channel>
+  </size>
+  <object>
+    <name>mouse</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>912</xmin>
+      <ymin>200</ymin>
+      <xmax>990</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>
